@@ -92,13 +92,13 @@ public class autorBean {
                 salidaTabla.append(resultado.getInt(1));
                 salidaTabla.append("</td>");
                 salidaTabla.append("<td>");
+                salidaTabla.append(resultado.getString(4));
+                salidaTabla.append("</td>");
+                salidaTabla.append("<td>");
                 salidaTabla.append(resultado.getString(2));
                 salidaTabla.append("</td>");
                 salidaTabla.append("<td>");
                 salidaTabla.append(resultado.getString(3));
-                salidaTabla.append("</td>");
-                salidaTabla.append("<td>");
-                salidaTabla.append(resultado.getString(4));
                 salidaTabla.append("</td>");
                 salidaTabla.append("<td>");
                 salidaTabla.append(resultado.getString(5));
