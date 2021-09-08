@@ -1,3 +1,4 @@
 com\bean\usuarioBean.class
 com\conexion\connectionResource.class
 com\bean\autorBean.class
+com\bean\LibroBean.class

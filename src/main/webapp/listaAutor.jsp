@@ -41,6 +41,12 @@
                 <li class="nav-item">
                   <a class="nav-link active" href="#">Listar Autor</a>
                 </li>
+                 <li class="nav-item">
+                    <a class="nav-link " href="listarLibro.jsp">Listar Libros</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link " href="listarUsuario.jsp">Listar Usuario</a>
+                </li>
               </ul>
         </nav>
     </header>

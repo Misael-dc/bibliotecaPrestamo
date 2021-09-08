@@ -39,7 +39,13 @@
                   <a class="nav-link active" href="#">Registrar Usuario</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " href="listaAutor.jsp">Listar Autor</a>
+                    <a class="nav-link" href="listaAutor.jsp">Listar Autor</a>
+                </li>
+                 <li class="nav-item">
+                    <a class="nav-link" href="listarLibro.jsp">Listar Libros</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link " href="listarUsuario.jsp">Listar Usuario</a>
                 </li>
               </ul>
         </nav>
